@@ -1,4 +1,11 @@
 # Stock-Return-Prediction-Model-using-Machine-Learning
+
+## Link to Kaggle file (easier to access and run code): https://www.kaggle.com/rushilshah22/durhack-2022-stock-prediction-model
+
+
+
+
+
 ## Inspiration
 Interest in finance and a basic understanding in Machine Learning concepts which we looked to further.
 
